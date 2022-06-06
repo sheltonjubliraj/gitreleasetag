@@ -10,8 +10,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install
-        run: npm init -y && npm install
-        run: npm ci
+        run: npm install
+        #run: npm ci
       - name: Build
         run: npm run build
       - name: Test

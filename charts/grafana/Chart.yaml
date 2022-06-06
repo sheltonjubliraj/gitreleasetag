@@ -9,8 +9,8 @@ icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_t
 sources:
   - https://github.com/grafana/grafana
 maintainers:
-  - name: zanhsieh
-    email: zanhsieh@gmail.com
+  - name: shelton
+    email: sheltonjubliraj@gmail.com
   - name: rtluckie
     email: rluckie@cisco.com
   - name: maorfr

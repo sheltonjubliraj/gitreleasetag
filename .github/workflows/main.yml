@@ -10,6 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install
+        run: npm init -y
         run: npm ci
       - name: Build
         run: npm run build

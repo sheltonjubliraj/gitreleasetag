@@ -1,0 +1,22 @@
+{
+  "name": "gitreleasetag",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "npm-init.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheltonjubliraj/gitreleasetag.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "shelton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheltonjubliraj/gitreleasetag/issues"
+  },
+  "homepage": "https://github.com/sheltonjubliraj/gitreleasetag#readme"
+}
